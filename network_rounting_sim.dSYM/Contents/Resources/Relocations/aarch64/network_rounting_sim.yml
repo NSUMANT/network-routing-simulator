@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nsumant/cisco /network_rounting_sim'
+relocations:     []
+...
