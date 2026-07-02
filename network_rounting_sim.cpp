@@ -1,3 +1,14 @@
+/*
+Network Routing Simulator
+Author: N Sumant
+
+Features:
+- Dijkstra Algorithm
+- Bellman-Ford Algorithm
+- Routing Table Generation
+- Dynamic Link Addition/Removal
+- Performance Comparison
+*/
 #include <iostream>
 #include <vector>
 #include <queue>

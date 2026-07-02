@@ -1,13 +1,25 @@
-  // cout<<"Shortest distances from Router "<<src<<" to other routers:\n";
-    // for(int i=0;i<n;i++)    
-    // {
-    //     cout<<"Router "<<i<<" : ";
-    //     if(dist[i]==INT_MAX) cout<<"Unreachable"<<endl;
-    //     else 
-    //     {
-    //         cout<<"Cost "<<dist[i]<<endl;
-    //         cout<<"Path: ";
-    //         printPath(parent,i);
-    //         cout<<endl;
-    //     }
-    // }
+# Network Routing Simulator
+
+## Overview
+A menu-driven network routing simulator developed in C++.
+
+## Features
+- Dijkstra Algorithm
+- Bellman-Ford Algorithm
+- Routing Table Generation
+- Dynamic Link Addition
+- Dynamic Link Removal
+- Next-Hop Calculation
+- Performance Comparison
+
+## Technologies
+- C++
+- STL
+- Graph Algorithms
+
+## How to Run
+
+Compile:
+
+```bash
+g++ network_routing_sim.cpp -o simulator
